@@ -55,7 +55,7 @@ The project utilizes Raspberry Pi devices to create a network infrastructure for
 ### 5. Get Client Files for Remote Connections
 
 **Conceptual Breakdown:**
-- Create Client Files for Remote Devices.
+- Create client files for remote devices.
 - Install OpenVPN client.
 - Access shared files over the internet securely.
 
